@@ -31,8 +31,6 @@ apex_defaults {
                 "libmpeg2extractor",
                 "liboggextractor",
                 "libwavextractor",
-                // JNI
-                "libmediaparser-jni"
             ],
         },
     },
